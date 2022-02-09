@@ -1,11 +1,8 @@
 <div align="center">
 <h1>GoGet</h1>
 Easy way to hold a http(s) request<br>
+<code>goget -u https://www.google.com</code>
 </div>
-
-```powershell
-goget -u https://www.google.com
-```
 
 # TODO
 **Goget will send a http request, and show the request time, status, response, and save response to a file**  
